@@ -1,0 +1,6 @@
+tweepy
+nltk
+textblob
+
+mysql.connector
+bs4
